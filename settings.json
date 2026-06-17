@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "riadsd.aternos.me",
+    "port": 20046,
     "version": "1.21.1"
   },
   "position": {
@@ -27,7 +27,7 @@
     },
     "chat-messages": {
       "enabled": true,
-      "repeat": true,
+      "repeat": false,
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
